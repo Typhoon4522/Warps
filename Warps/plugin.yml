@@ -1,0 +1,8 @@
+name: Warps
+main: me.warps.Warps
+version: 1.0.0
+
+commands:
+  warps:
+    set:
+    list:
